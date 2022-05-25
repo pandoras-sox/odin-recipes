@@ -1,0 +1,14 @@
+.container {
+    background-color: thistle;
+    padding: 16px;
+    border: 4px solid blue;
+    gap: 8px;
+    display: flex;
+}
+.item {
+    background: palegoldenrod;
+    border: 4px solid saddlebrown;
+    height: 48px; 
+    flex: 1;
+    padding: 4px;
+}
