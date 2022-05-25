@@ -1,4 +1,5 @@
 .flex-container {
+    flex-direction: column;
     background-color: thistle;
     padding: 16px;
     border: 4px solid blue;
