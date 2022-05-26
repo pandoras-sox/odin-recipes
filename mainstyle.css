@@ -1,5 +1,5 @@
 .flex-container {
-    flex-direction: column;
+    flex-direction: row;
     background-color: rgb(218, 199, 193);
     padding: 16px;
     border: 4px solid rgb(155, 21, 21);
